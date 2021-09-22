@@ -1,4 +1,4 @@
-# Towards an Algorithmic Harmonic Accompaniment - 2018
+# Towards an Algorithmic Harmonic Accompaniment
 
 ## Scope and Intentions
 
